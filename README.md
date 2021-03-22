@@ -1,2 +1,2 @@
 # shorturl
-short url
+Creating Short_Url using Django grame work 
